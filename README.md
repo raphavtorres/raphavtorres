@@ -26,7 +26,7 @@
     <a href = "mailto:raphaeltorresprofissional@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.instagram.com/phtorresmo/" target="_blank" rel="next">
+    <a href="https://www.instagram.com/rapha_vtorres/" target="_blank" rel="next">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/raphael-torres-b16519211" target="_blank" rel="next">
