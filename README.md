@@ -1,5 +1,3 @@
-### Olá! Eu sou o Raphael Torres
-
 <div align="center">
 
 ### Hello! I'm Raphael Torres! 👋
@@ -27,7 +25,8 @@
   
 ##
 <div align="center">
-### About Me
+
+  ### About Me
 🌱 Aprendiz Técnico em Soluções Digitais - CaP/ETS BOSCH <br>
 📚 Cursando Engenharia de Software (2023 - 2026) Uninter <br>
 🎓 Formação: Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio (2020 - 2022), pela ETEC Bento Quirino<br>
