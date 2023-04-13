@@ -3,10 +3,6 @@
 <div align="center">
 
 ### Hello! I'm Raphael Torres! 👋
-
-🌱 Aprendiz Técnico em Soluções Digitais - CaP/ETS BOSCH <br>
-📚 Cursando Engenharia de Software (2023 - 2026) Uninter <br>
-🎓 Formação: Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio (2020 - 2022), pela ETEC Bento Quirino<br>
   
 </div><br>
 
@@ -28,6 +24,12 @@
   <img align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
  
 </div>
+
+##
+### About Me
+🌱 Aprendiz Técnico em Soluções Digitais - CaP/ETS BOSCH <br>
+📚 Cursando Engenharia de Software (2023 - 2026) Uninter <br>
+🎓 Formação: Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio (2020 - 2022), pela ETEC Bento Quirino<br>
   
  ##
   <div align="center"> 
