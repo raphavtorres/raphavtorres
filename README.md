@@ -1,15 +1,23 @@
 ### Olá! Eu sou o Raphael Torres
 
+<div align="center">
+
+### Hello! I'm Raphael Torres! 👋
+
 - 🌱 Aprendiz Técnico em Soluções Digitais - CaP/ETS BOSCH 
 - 📚 Cursando Engenharia de Software (2023 - 2026) Uninter
 - 🎓 Formação: Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio (2020 - 2022), pela ETEC Bento Quirino
+  
+</div><br>
+
+<div style="border: none;">
 
 <div>
   <a href="https://github.com/raphavtorres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphavtorres&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
- <div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ph-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
