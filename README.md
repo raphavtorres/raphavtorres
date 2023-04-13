@@ -10,7 +10,7 @@
 <img width="60%" height="auto" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif">
 <div>
 
-<div>
+<div width="40%" height="auto">
   <a href="https://github.com/raphavtorres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphavtorres&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
