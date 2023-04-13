@@ -24,9 +24,9 @@
   <img align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
  
 </div>
-
+  
+##
 <div align="center">
-## <br>
 ### About Me
 🌱 Aprendiz Técnico em Soluções Digitais - CaP/ETS BOSCH <br>
 📚 Cursando Engenharia de Software (2023 - 2026) Uninter <br>
