@@ -31,7 +31,8 @@
 📚 Cursando Engenharia de Software (2023 - 2026) Uninter <br>
 🎓 Formação: Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio (2020 - 2022), pela ETEC Bento Quirino<br>
 </div>
- ##
+ 
+  ##
   <div align="center"> 
     <a href = "mailto:raphaeltorresprofissional@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
