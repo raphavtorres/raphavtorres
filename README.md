@@ -6,6 +6,10 @@
 
 <div style="border: none;">
 
+<div display="inline">
+<img src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
+<div>
+
 <div align="center">
   <a href="https://github.com/raphavtorres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphavtorres&layout=compact&langs_count=7&theme=github_dark"/>
