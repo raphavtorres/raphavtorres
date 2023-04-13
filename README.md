@@ -12,7 +12,7 @@
 
 <div style="border: none;">
 
-<div>
+<div align="center">
   <a href="https://github.com/raphavtorres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphavtorres&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -27,11 +27,10 @@
   <img align="center" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
  
-
 </div>
   
  ##
-  <div> 
+  <div align="center"> 
     <a href = "mailto:raphaeltorresprofissional@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
