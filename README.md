@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-##
+## <br>
 ### About Me
 🌱 Aprendiz Técnico em Soluções Digitais - CaP/ETS BOSCH <br>
 📚 Cursando Engenharia de Software (2023 - 2026) Uninter <br>
