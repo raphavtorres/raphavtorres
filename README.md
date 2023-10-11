@@ -9,7 +9,7 @@
 <div align="center">
   <img width="60%" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif">
   <a href="https://github.com/raphavtorres">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphavtorres&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphavtorres&layout=compact&langs_count=5&theme=github_dark"/>
 <div>
 
 <div style="display: inline_block" align="center"><br>
