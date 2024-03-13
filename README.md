@@ -7,7 +7,7 @@
 <div style="border: none;">
 
 <div align="center">
-  <img width="60%" src="https://i.ytimg.com/vi/vTsPMmeSexk/maxresdefault.jpg">
+  <img width="70%" src="https://i.ytimg.com/vi/vTsPMmeSexk/maxresdefault.jpg">
   <a href="https://github.com/raphavtorres">
 <div>
 
