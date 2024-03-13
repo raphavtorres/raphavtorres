@@ -19,9 +19,6 @@
 <div align="center">
 
   ## About Me
-
-  ### General
-Web Developer
   
   ### Currently learning:
 🍃 Springboot (rest api, microservice etc.) | 🐳 Containerization with Docker | 📦⛓ Blockchain - Web3.0
