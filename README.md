@@ -12,7 +12,7 @@
 <div>
 
 <div style="display: inline_block" align="center"><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,ubuntu,git,react,nextjs,py,django&perline=7" width="40%" height="40%"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,ubuntu,git,react,nextjs,py,django&perline=20" width="40%" height="40%"/>
 </div>
   
 ##
