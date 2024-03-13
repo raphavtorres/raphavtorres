@@ -18,7 +18,15 @@
 ##
 <div align="center">
 
-  ### About Me
+  ## About Me
+
+  ### General
+Web Developer
+  
+  ### Currently learning:
+🍃 Springboot (rest api, microservice etc.) | 🐳 Containerization with Docker | 📦⛓ Blockchain - Web3.0
+  
+  ### Academic
 🌱 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
 📚 Studying Software Engineering (2023 - 2026): Uninter <br>
 🎓 Education: Technician in Systems Development Integrated to High School (2020 - 2022): ETEC Bento Quirino <br>
