@@ -21,7 +21,7 @@
   ## About Me
 
   ### Currently learning:
-🍃 Springboot (rest api, microservice etc.) | 🐳 Containerization with Docker | 📦⛓ Blockchain - Web3.0
+🌐 ASP .Net (rest api, microservice etc.) | 🐳 Containerization with Docker | 📦⛓ Blockchain - Web3.0
   
   ### Academic
 🌱 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
