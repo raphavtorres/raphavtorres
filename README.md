@@ -15,14 +15,14 @@
   <img src="https://skillicons.dev/icons?i=java,spring,docker,ubuntu,git,react,nextjs,py,django&perline=20" width="40%" height="40%"/>
 </div>
   
-##
 <div align="center">
 
   ## About Me
 
   ### Currently learning:
-🌐 ASP .Net (rest api, microservice etc.) | 🐳 Containerization with Docker | 📦⛓ Blockchain - Web3.0
-  
+🌐 ASP .Net | 🤖 GenAI | 📦⛓ Blockchain - Web3.0 | 
+<img src="https://cdn3.emoji.gg/emojis/4312-vuejs.png" width="15px" height="15px" alt="vuejs"> Vue
+
   ### Academic
 🌱 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
 📚 Studying Software Engineering (2023 - 2026): Uninter <br>
