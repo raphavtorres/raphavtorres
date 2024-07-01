@@ -25,7 +25,8 @@
 <img src="https://cdn3.emoji.gg/emojis/4312-vuejs.png" width="15px" height="15px" alt="vuejs"> Vue
 
   ### Academic
-🌱 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
+💻 M.O in Digital Solutions: GS BOSCH <br>
+🌱 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH (2023 - 2024) <br>
 📚 Studying Software Engineering (2023 - 2026): Uninter <br>
 🎓 Education: Technician in Systems Development Integrated to High School (2020 - 2022): ETEC Bento Quirino <br>
 </div>
