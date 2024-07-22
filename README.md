@@ -21,8 +21,7 @@
   ## About Me
 
   ### Currently learning:
-🌐 ASP .Net | 🤖 GenAI | 📦⛓ Blockchain - Web3.0 | 
-<img src="https://cdn3.emoji.gg/emojis/4312-vuejs.png" width="15px" height="15px" alt="vuejs"> Vue
+🤖 GenAI | 📦⛓ Blockchain - Web3.0
 
   ### Academic
 💻 M.O in Digital Solutions: GS BOSCH <br>
