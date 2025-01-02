@@ -24,7 +24,7 @@
 🤖 GenAI | 📦⛓ Blockchain - Web3.0
 
   ### Academic
-💻 Junior Technician in Dital Solutions: BOSCH (GS/LA) <br>
+💻 Junior Technician in Digital Solutions: BOSCH (GS/LA) <br>
 🌱 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH (2023 - 2024) <br>
 📚 Studying Software Engineering (2023 - 2026): Uninter <br>
 🎓 Education: Technician in Systems Development Integrated to High School (2020 - 2022): ETEC Bento Quirino <br>
