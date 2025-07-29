@@ -19,8 +19,6 @@
 <div align="center">
 
   ## About Me
-
-  ### Academic
 💻 PO & QA at GS/LA - BOSCH <br>
 📚 Software Engineering (2023 - 2026): Uninter <br>
 </div>
