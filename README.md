@@ -13,7 +13,7 @@
 <div>
 
 <div style="display: inline_block" align="center"><br>
-  <img src="https://skillicons.dev/icons?i=solidity,typescript,nextjs,spring,docker,py&perline=20" width="40%"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,py,solidity,docker,spring&perline=20" width="40%"/>
 </div>
   
 <div align="center">
