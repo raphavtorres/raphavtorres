@@ -7,7 +7,7 @@
 <div style="border: none;">
 
 <div align="center">
-  <img width="70%" src="https://i.ytimg.com/vi/vTsPMmeSexk/maxresdefault.jpg">
+<!--   <img width="70%" src="https://i.ytimg.com/vi/vTsPMmeSexk/maxresdefault.jpg"> -->
 <!--   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphavtorres&layout=compact&langs_count=6&theme=radical&hide=html,blade,css,scss,php"/> -->
   <a href="https://github.com/raphavtorres">
 <div>
